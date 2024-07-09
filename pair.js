@@ -69,8 +69,7 @@ ______________________________
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║
-║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/237620857930_
-║❍ 𝐑𝐞𝐩𝐨: _https://github.com/keithkeizzah/HUNCHO-MD_
+║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/237620857930__
 ║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo_
 ║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a_
 ║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/mc_rubenx_
