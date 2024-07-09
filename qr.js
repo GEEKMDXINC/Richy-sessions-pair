@@ -61,24 +61,24 @@ router.get('/', async (req, res) => {
 				   let LEGACY_MD_TEXT = `
 *𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝*
 *𝐄𝐧𝐣𝐨𝐲😺*
-*By _𝐤𝐞𝐢𝐭𝐡𝐤𝐞𝐢𝐳𝐳𝐚𝐡⚪_*
+*By _Geek_*
 ______________________________
 ╔════◇
-║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐊𝐄𝐈𝐓𝐇 𝐌𝐃 』
+║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 *RICHY* 𝐌𝐃 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚══════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@keithkeizzah_
-║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254748387615_
-║❍ 𝐑𝐞𝐩𝐨: _https://github.com/keithkeizzah/HUNCHO-MD_
-║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/GvR2YEfyhQQF85jp1rCLNn_
-║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47_
-║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/keizzah_keith_
-║ ☬ ☬ ☬ ☬
+║
+║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/237620857930_
+║❍ 𝐑𝐞𝐩𝐨: _https://github.com/GEEKMDXINC/Richy-MD_
+║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo_
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a_
+║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/mc_Rubenx_
+║ 
 ╚══════════════╝ 
- 𒂀 𝐊𝐄𝐈𝐓𝐇 𝐌𝐃
+  *RICHY* 𝐌𝐃
 ______________________________
 
 Don't Forget To Give Star⭐ To My Repo`
