@@ -56,29 +56,29 @@ router.get('/', async (req, res) => {
 					let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
 					await delay(800);
 				   let b64data = Buffer.from(data).toString('base64');
-				   let session = await Qr_Code_By_Brasho_Kish.sendMessage(Qr_Code_By_Brasho_Kish.user.id, { text: '' + b64data });
+				   let session = await Qr_Code_By_Brasho_Kish.sendMessage(Qr_Code_By_Brasho_Kish.user.id, { text: 'BLADE-MD;;;' + b64data });
 	
 				   let LEGACY_MD_TEXT = `
-*𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝*
-*𝐄𝐧𝐣𝐨𝐲😺*
-*By _Geek_*
+*hello*
+*from*
+*ALEX TV*
 ______________________________
 ╔════◇
-║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 *RICHY* 𝐌𝐃 』
+║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 *BLADE* 𝐌𝐃 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚══════════════╝
 ╔═════◇
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║
-║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/237620857930_
-║❍ 𝐑𝐞𝐩𝐨: _https://github.com/GEEKMDXINC/Richy-MD_
-║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FRQiuFWlYJ3Jolx7OACtKo_
-║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a_
-║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/mc_Rubenx_
+║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/2348059540212_
+║❍ 𝐑𝐞𝐩𝐨: _https://github.com/Bladeh4x/BLADE-MD_
+║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/DLniUfYVWR50sbkZDR8tBI_
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VafHAVpICVfdEERr6h2f_
+║_
 ║ 
 ╚══════════════╝ 
-  *RICHY* 𝐌𝐃
+  *BLADE* 𝐌𝐃
 ______________________________
 
 Don't Forget To Give Star⭐ To My Repo`
